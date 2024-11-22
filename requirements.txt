@@ -1,0 +1,25 @@
+# Core Dependencies
+psutil>=5.9.0  # System and process monitoring
+watchdog>=3.0.0  # File system monitoring
+click>=8.1.7  # Command line interface
+rich>=13.9.0  # Rich text and formatting in terminal
+python-dotenv>=1.0.0  # Environment variable management
+
+# System Management
+pywin32>=308  # Windows system operations
+wmi>=1.5.1  # Windows Management Instrumentation
+winreg-unicode>=1.1.1  # Windows registry operations
+
+# Utilities
+schedule>=1.2.0  # Task scheduling
+humanize>=4.9.0  # Human readable numbers and dates
+pathlib>=1.0.1  # Object-oriented filesystem paths
+requests>=2.31.0  # HTTP library
+
+# Data Processing
+pandas>=2.0.0  # Data manipulation and analysis
+numpy>=1.24.0  # Numerical operations
+
+# Testing
+pytest>=8.0.0
+pytest-cov>=4.1.0
